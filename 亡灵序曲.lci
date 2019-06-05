@@ -23,10 +23,10 @@ MARK 进鼓失真
 END MARK 进鼓失真
 
 MARK 吉他SOLO
+[KeyOffset:0]
 {6 4 5 3 6 4 1 5}
-[KeyOffset:-2]
-{6 4 1 5 4 4 3M |3M 7M|}
 [KeyOffset:5]
+{6 4 1 5 4 4 3M |3M 7M|}
 {6 4 5 3 6 4 1 5}
 [KeyOffset:-2]
 {6 4 1 5 4 4 5 5 5 5}
